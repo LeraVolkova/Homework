@@ -1,0 +1,23 @@
+.header{
+width: 900px;
+margin: 0 auto 100px;
+padding-top: 75px;
+}
+.menu-list{
+    color:#626262;
+    font-family: 'Playfait Display',serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+}
+.menu-item {
+    display: inline-block;
+    margin-right: 120px;
+    width: 90px;
+}
+.menu-item:last-child{
+    margin-right:0; 
+}
+.menu-item:hover {
+    color:#03a9f4;
+}
